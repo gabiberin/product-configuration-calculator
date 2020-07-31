@@ -1,0 +1,7 @@
+org: gabiberin
+app: flyer-price-calculator
+component: express
+name: express-starter
+
+inputs:
+  src: ./

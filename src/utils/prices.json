@@ -1,0 +1,26 @@
+{
+    "prices": {
+        "material": {
+            "120gr": 0.03,
+            "170gr": 0.04,
+            "300gr": 0.05
+        },
+        "drilling_holes": {
+            "1": 1,
+            "2": 2,
+            "3": 2.5,
+            "4": 3
+        },
+        "bundles": 0.5,
+        "finish": {
+            "matt_lamination": 0.01,
+            "gloss_lamination": 0.015
+        }
+    },
+    "sizes": {
+        "a2": 249480,
+        "a3": 124740,
+        "a4": 62370,
+        "a5": 31080
+    }
+}

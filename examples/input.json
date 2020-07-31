@@ -1,0 +1,11 @@
+{
+    "sku": "flyer",
+    "options": {
+        "copies": 3000,
+        "size": "a4",
+        "material": "300gr",
+        "finish": "laminated",
+        "drilling_holes": 4,
+        "bundles": 4
+    }
+}
